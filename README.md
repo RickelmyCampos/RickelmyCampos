@@ -6,6 +6,7 @@
 <li align="left">❤️ I love games and one piece</li>
 <li align="left">📖 I am studying Computer Engineering at UFMA ( Federal University of Maranhão), Brazil.</li>
 <li align="left">💻 Currently I develop applications mobile(android / ios) with react native and blazor applications (Asp.NET), with html and css.</li>
+<li align="left">Programming a pokedex <a href="https://github.com/RickelmyCampos/PokeView">app</a> </li>
 
 <div align="center">
    <h2>My Coding Activity </h2>
